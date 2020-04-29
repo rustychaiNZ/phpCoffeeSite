@@ -1,4 +1,4 @@
-<ul class="nav nav-pills">
+<ul class="nav nav-pills mt-1">
 	<li class="nav-item">  <a class="nav-link <?php if($title === 'Home'): ?>active<?php endif; ?>" href="index.php">Home</a> </li>
 	<li class="nav-item">  <a class="nav-link <?php if($title === 'About'): ?>active<?php endif; ?>" href="about.php">About </a> </li>
 	<li class="nav-item">  <a  class="nav-link <?php if($title === 'Coffee'): ?>active<?php endif; ?>" href="coffee.php">  Coffee</a> </li>

@@ -16,11 +16,11 @@ body{
 	min-height: 100%;
 }
 
-header{
-	height: 350px;
-	width: 100%;
+/*header{*/
+	/*height: 350px;*/
+	/*width: 100%;*/
 	/*margin: 50px auto;*/
-}
+/*}*/
 
 .banner{
 	background-image: url("../images/banner.jpg");
